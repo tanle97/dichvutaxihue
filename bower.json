@@ -1,0 +1,22 @@
+{
+  "name": "tien_nguyen_car",
+  "authors": [
+    "tanle97 <tanlengoc091997@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^4.0.0",
+    "bootstrap": "^5.3.8",
+    "font-awesome": "^7.2.0"
+  }
+}
