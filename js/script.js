@@ -3,7 +3,7 @@ $(document).ready(function () {
     e.preventDefault();
 
     // 1. Cấu hình Telegram (Thay thông tin của bạn vào đây)
-    const telegramToken = "8764329841:AAHGb-7D88qeAiR8vVIqwDZj7guQ0QSXvvI"; //"THAY_TOKEN_CUA_BAN_VAO_DAY";
+    const telegramToken = "8337385790:AAGbpxFO8sRdlpQoesxmlasMadVbd24Bbyg"; //"THAY_TOKEN_CUA_BAN_VAO_DAY";
     const chatId = 5217475773; //"THAY_ID_CUA_BAN_VAO_DAY";
 
     // 2. Lấy dữ liệu từ Form
